@@ -1,0 +1,4 @@
+Creating the public repository on GitHub.
+Cloning the repository to your local machine.
+User name and email configured in Git.
+Provide the name of the GitHub repository.
